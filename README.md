@@ -59,14 +59,14 @@ SCT_WD_3/
 └── screenshot.png
 
 # 👨‍💻 Author
-
+Goldi singh
 
 WEB DEVELOPMENT INTERN - SKILLCRAFT TECHNOLOGY
 
-📧 Email:
+📧 Email:goldisinghrajput2006@gmail.com
 
 🔗 GitHub:
 
 🌐 Live Project: 
 
-💼 LinkedIn: 
+💼 LinkedIn: https://www.linkedin.com/in/goldi-singh-rajput-a62b7b2b7?utm_source=share_via&utm_content=profile&utm_medium=member_android
