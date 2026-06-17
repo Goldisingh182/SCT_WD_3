@@ -41,7 +41,7 @@ CSS3 (Modern UI + Animations)
 JavaScript (Vanilla JS)
 
 # 🌐 Live PROJECT
-🌐 Live Project: 
+🌐 Live Project: https://goldisingh182.github.io/SCT_WD_3/
 
 👉 GitHub Repository:https://github.com/Goldisingh182/SCT_WD_3
 
@@ -67,6 +67,6 @@ WEB DEVELOPMENT INTERN - SKILLCRAFT TECHNOLOGY
 
 🔗 GitHub:https://github.com/Goldisingh182/SCT_WD_3
 
-🌐 Live Project: 
+🌐 Live Project: https://goldisingh182.github.io/SCT_WD_3/
 
 💼 LinkedIn: https://www.linkedin.com/in/goldi-singh-rajput-a62b7b2b7?utm_source=share_via&utm_content=profile&utm_medium=member_android
