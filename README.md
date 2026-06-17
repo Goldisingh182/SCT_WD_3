@@ -65,7 +65,7 @@ WEB DEVELOPMENT INTERN - SKILLCRAFT TECHNOLOGY
 
 📧 Email:goldisinghrajput2006@gmail.com
 
-🔗 GitHub:
+🔗 GitHub:https://github.com/Goldisingh182/SCT_WD_3
 
 🌐 Live Project: 
 
