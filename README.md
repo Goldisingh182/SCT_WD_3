@@ -43,7 +43,7 @@ JavaScript (Vanilla JS)
 # 🌐 Live PROJECT
 🌐 Live Project: 
 
-👉 GitHub Repository:
+👉 GitHub Repository:https://github.com/Goldisingh182/SCT_WD_3
 
 # 📂 Project Structure
 SCT_WD_3/
