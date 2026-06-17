@@ -41,9 +41,9 @@ CSS3 (Modern UI + Animations)
 JavaScript (Vanilla JS)
 
 # 🌐 Live PROJECT
-🌐 Live Project: https://nitish-kumar-62.github.io/SCT_WD_3/
+🌐 Live Project: 
 
-👉 GitHub Repository:https://github.com/Nitish-Kumar-62/SCT_WD_3
+👉 GitHub Repository:
 
 # 📂 Project Structure
 SCT_WD_3/
@@ -59,14 +59,14 @@ SCT_WD_3/
 └── screenshot.png
 
 # 👨‍💻 Author
-NITISH KUMAR
+
 
 WEB DEVELOPMENT INTERN - SKILLCRAFT TECHNOLOGY
 
-📧 Email:nitish62ni@gmail.com / nitish62rana@gmail.com
+📧 Email:
 
-🔗 GitHub:https://github.com/Nitish-Kumar-62/SCT_WD_3
+🔗 GitHub:
 
-🌐 Live Project: https://nitish-kumar-62.github.io/SCT_WD_3/
+🌐 Live Project: 
 
-💼 LinkedIn: https://www.linkedin.com/in/nitish-kumar-0201n2005/
+💼 LinkedIn: 
